@@ -30,8 +30,7 @@ public class test {
             if (checkPanValid == 1) {
                 System.out.println("You have entered a valid PAN Card and " + amount + " rupees has been deposited.");
             } else {
-                System.out
-                        .println("You have entered an invalid PAN Card and " + amount + " rupees cannot be deposited.");
+                System.out.println("You have entered an invalid PAN Card and " + amount + " rupees cannot be deposited.");
             }
         } else {
             System.out.println("You have deposited " + amount + " rupees");
